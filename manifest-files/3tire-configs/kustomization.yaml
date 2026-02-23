@@ -18,9 +18,9 @@ commonAnnotations:
 
 # Centralized image management
 images:
-  - name: itsbaivab/frontend
+  - name: piyushsachdeva/frontend
     newTag: v2
-  - name: itsbaivab/backend
+  - name: piyushsachdeva/backend
     newTag: latest
   - name: postgres
     newTag: "15"
